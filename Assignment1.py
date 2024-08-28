@@ -1,7 +1,9 @@
+#Python Assignment 1
+#S Krishna
+
 Name = input(“Hi there! What's your name?”)
 
 print(“Good to meet you”, name, “!”)
-
 
 Dish = input(“What is your favorite dish, ” + name + “ ?”)
 
